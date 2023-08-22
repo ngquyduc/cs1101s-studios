@@ -53,3 +53,8 @@
 
 // Q8: Write a function named other_combos which takes an order and returns a 
 // new order with- out the last combo. For example, other_combos(321) returns 32.
+
+
+
+
+
